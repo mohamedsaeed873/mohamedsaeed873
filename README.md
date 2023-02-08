@@ -21,8 +21,7 @@ Skills:
 * CSS
 * Git
 
-
-<img src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" alt="gif"/>
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" width="200px" alt="gif"/>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning problem solving 
