@@ -6,7 +6,20 @@ I'm Mohamed Saeed, a backend developer using php
 Laravel in website and mobile app development
 I have experience in the front end field.
 
-Skills: PHP / Laravel framework/ oop/ laravel module/ mvc/solid/jQuery/ JS/MySQL/Bootstrap/HTML/CSS/Git
+Skills: 
+* PHP 
+* Laravel framework
+* oop
+* laravel module
+* mvc
+* solid
+* jQuery
+* JS
+* MySQL
+* Bootstrap
+* HTML
+* CSS
+* Git
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning problem solving 
