@@ -21,6 +21,9 @@ Skills:
 * CSS
 * Git
 
+
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" alt="gif"/>
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning problem solving 
 - 📫 How to reach me: 01094138191 
